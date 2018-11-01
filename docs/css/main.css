@@ -14,17 +14,17 @@ body {
 	background: -moz-linear-gradient(top left, #F8D353, #FF5C5A);
 	background: linear-gradient(top left, #F8D353, #FF5C5A);
 
-/*	background: #B0D09C;
+	/*	background: #B0D09C;
 	background: -webkit-linear-gradient(top left, #B0D09C, #4B8244);
 	background: -moz-linear-gradient(top left, #B0D09C, #4B8244);
 	background: linear-gradient(top left, #B0D09C, #4B8244);*/
-	
-/*	background: #B5DBDC;
+
+	/*	background: #B5DBDC;
 	background: -webkit-linear-gradient(top left, #B5DBDC, #A8C6D4);
 	background: -moz-linear-gradient(top left, #B5DBDC, #A8C6D4);
 	background: linear-gradient(top left, #B5DBDC, #A8C6D4);*/
-	
-/*	background: #DFA2B9;
+
+	/*	background: #DFA2B9;
 	background: -webkit-linear-gradient(top left, #DFA2B9, #EBC48D);
 	background: -moz-linear-gradient(top left, #DFA2B9, #EBC48D);
 	background: linear-gradient(top left, #DFA2B9, #EBC48D);*/
@@ -67,7 +67,7 @@ img {
 
 .copyright {
 	opacity: .5;
-} 
+}
 
 .copyright p {
 	font-size: 18px;
