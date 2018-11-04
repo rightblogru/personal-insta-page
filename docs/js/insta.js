@@ -5,7 +5,7 @@ $(document).ready(function(){
 		userId: '1776333283',
 		accessToken: '1776333283.1677ed0.1466e93493614599b985afff8ce57bf4',
 		resolution: 'standard_resolution',
-		limit: 60
+		limit: 33 // 33 max
 	});
 	userFeed.run();
 

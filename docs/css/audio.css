@@ -11,12 +11,16 @@
 	cursor: pointer;
 	opacity: 0.2;
 	-webkit-transition: 0.2s ease-in;
-	   -moz-transition: 0.2s ease-in;
-	    -ms-transition: 0.2s ease-in;
-	     -o-transition: 0.2s ease-in;
-	        transition: 0.2s ease-in;
+	-moz-transition: 0.2s ease-in;
+	-ms-transition: 0.2s ease-in;
+	-o-transition: 0.2s ease-in;
+	transition: 0.2s ease-in;
 }
 
 .audio-controls a:hover {
 	opacity: 0.6;
+}
+
+.audioElement {
+	display: none;
 }
